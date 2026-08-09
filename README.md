@@ -1,11 +1,11 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2050%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-129-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-130-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -46,23 +46,26 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       3 mins              █████████████████████████   100.00 % 
+C#                       4 hrs 1 min         █████████████████████░░░░   84.92 % 
+Binary                   42 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Unknown Editor           3 mins              ███████████████████████░░   93.84 % 
-Visual Studio            0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Visual Studio            4 hrs 41 mins       █████████████████████████   98.92 % 
+Unknown Editor           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 🐱‍💻 Projects: 
-Snowy Meaning 55         3 mins              █████████████████████████   100.00 % 
+Snowy Meaning 55         4 hrs 44 mins       █████████████████████████   99.85 % 
+Lingering Bush 11        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+Windows                  4 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (4.73%)
+⏱ AI Coding Time: 0 secs (0.05%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -95,7 +98,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/manuuio/manuuio/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2026 00:49:16 UTC
+ Last Updated on 09/08/2026 07:50:16 UTC
 <!--END_SECTION:waka-->
 
 
