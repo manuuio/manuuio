@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Started the tracking of my daily coding hours on the 8th August 2026.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2050%20mins-blue?style=flat)
 
