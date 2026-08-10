@@ -2,40 +2,40 @@
 
 Started the tracking of my daily coding hours on the 8th August 2026.
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2036%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-130-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-145-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 18.1 kB Used in GitHub's Storage 
  > 
-> 🏆 112 Contributions in the Year 2026
+> 🏆 120 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 3 Public Repositories 
  > 
-> 🔑 19 Private Repositories 
+> 🔑 20 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                11 commits          ██████████████░░░░░░░░░░░   55.00 % 
-🌃 Evening                9 commits           ███████████░░░░░░░░░░░░░░   45.00 % 
+🌆 Daytime                11 commits          █████████████░░░░░░░░░░░░   52.38 % 
+🌃 Evening                10 commits          ████████████░░░░░░░░░░░░░   47.62 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  3 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Wednesday                3 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Thursday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Friday                   13 commits          ████████████████░░░░░░░░░   65.00 % 
+Monday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Tuesday                  3 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Wednesday                3 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Thursday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Friday                   13 commits          ███████████████░░░░░░░░░░   61.90 % 
 Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
@@ -47,26 +47,26 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       4 hrs 1 min         █████████████████████░░░░   84.92 % 
-Binary                   42 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+C#                       8 hrs 46 mins       █████████████████████░░░░   83.44 % 
+Binary                   1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Visual Studio            4 hrs 41 mins       █████████████████████████   98.92 % 
-Unknown Editor           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Visual Studio            10 hrs 27 mins      █████████████████████████   99.51 % 
+Unknown Editor           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🐱‍💻 Projects: 
-Snowy Meaning 55         4 hrs 44 mins       █████████████████████████   99.85 % 
-Lingering Bush 11        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Snowy Meaning 55         10 hrs 30 mins      █████████████████████████   99.93 % 
+Lingering Bush 11        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Windows                  4 hrs 44 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (0.05%)
+⏱ AI Coding Time: 0 secs (0.02%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -86,10 +86,10 @@ Windows                  4 hrs 44 mins       ███████████�
 **I Mostly Code in C#** 
 
 ```text
-C#                       14 repos            ██████████████████░░░░░░░   73.68 % 
-HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+C#                       15 repos            ███████████████████░░░░░░   75.00 % 
+HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
 
@@ -99,7 +99,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/manuuio/manuuio/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2026 00:51:48 UTC
+ Last Updated on 10/08/2026 20:30:37 UTC
 <!--END_SECTION:waka-->
 
 
