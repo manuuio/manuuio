@@ -2,23 +2,23 @@
 
 Started the tracking of my daily coding hours on the 8th August 2026.
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2041%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-145-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-157-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 18.1 kB Used in GitHub's Storage 
+> 📦 19.3 kB Used in GitHub's Storage 
  > 
-> 🏆 120 Contributions in the Year 2026
+> 🏆 126 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 3 Public Repositories 
  > 
-> 🔑 20 Private Repositories 
+> 🔑 21 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -47,26 +47,30 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       8 hrs 46 mins       █████████████████████░░░░   83.44 % 
-Binary                   1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+C#                       13 hrs 52 mins      ████████████████████░░░░░   78.84 % 
+Binary                   2 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+C++                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+XML                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Visual Studio            10 hrs 27 mins      █████████████████████████   99.51 % 
-Unknown Editor           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Visual Studio            17 hrs 33 mins      █████████████████████████   99.71 % 
+Unknown Editor           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🐱‍💻 Projects: 
-Snowy Meaning 55         10 hrs 30 mins      █████████████████████████   99.93 % 
-Lingering Bush 11        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Snowy Meaning 55         11 hrs 27 mins      ████████████████░░░░░░░░░   65.09 % 
+Cool Stream 35           5 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   30.27 % 
+Cool Smoke 96            48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+Lingering Bush 11        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Windows                  10 hrs 31 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (0.02%)
+⏱ AI Coding Time: 0 secs (0.01%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -86,10 +90,11 @@ Windows                  10 hrs 31 mins      ███████████�
 **I Mostly Code in C#** 
 
 ```text
-C#                       15 repos            ███████████████████░░░░░░   75.00 % 
-HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+C#                       15 repos            ██████████████████░░░░░░░   71.43 % 
+HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
 
 
@@ -99,7 +104,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/manuuio/manuuio/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2026 00:51:21 UTC
+ Last Updated on 12/08/2026 00:58:01 UTC
 <!--END_SECTION:waka-->
 
 
