@@ -2,17 +2,17 @@
 
 Started the tracking of my daily coding hours on the 8th August 2026.
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%206%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-157-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-160-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 19.3 kB Used in GitHub's Storage 
  > 
-> 🏆 126 Contributions in the Year 2026
+> 🏆 129 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -47,24 +47,24 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       13 hrs 52 mins      ████████████████████░░░░░   78.84 % 
-Binary                   2 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-C++                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-XML                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+C#                       20 hrs 42 mins      ████████████████████░░░░░   80.02 % 
+Binary                   4 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+C++                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+XML                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Visual Studio            17 hrs 33 mins      █████████████████████████   99.71 % 
-Unknown Editor           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Visual Studio            25 hrs 49 mins      █████████████████████████   99.80 % 
+Unknown Editor           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🐱‍💻 Projects: 
-Snowy Meaning 55         11 hrs 27 mins      ████████████████░░░░░░░░░   65.09 % 
-Cool Stream 35           5 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   30.27 % 
-Cool Smoke 96            48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-Lingering Bush 11        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Cool Stream 35           13 hrs 36 mins      █████████████░░░░░░░░░░░░   52.57 % 
+Snowy Meaning 55         11 hrs 27 mins      ███████████░░░░░░░░░░░░░░   44.27 % 
+Cool Smoke 96            48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Lingering Bush 11        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Windows                  17 hrs 36 mins      █████████████████████████   100.00 % 
+Windows                  25 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -104,7 +104,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/manuuio/manuuio/main/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2026 00:58:01 UTC
+ Last Updated on 13/08/2026 00:59:54 UTC
 <!--END_SECTION:waka-->
 
 
