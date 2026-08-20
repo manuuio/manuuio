@@ -2,7 +2,7 @@
 
 Started the tracking of my daily coding hours on the 8th August 2026.
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2024%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20mins-blue?style=flat)
 
@@ -12,7 +12,7 @@ Started the tracking of my daily coding hours on the 8th August 2026.
 
 > 📦 20.0 kB Used in GitHub's Storage 
  > 
-> 🏆 151 Contributions in the Year 2026
+> 🏆 153 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -47,21 +47,21 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       23 hrs 58 mins      █████████████████████░░░░   82.15 % 
-Binary                   5 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-C++                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-XAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+C#                       20 hrs 55 mins      ████████████████████░░░░░   79.60 % 
+Binary                   4 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+XAML                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+C++                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-Visual Studio            29 hrs 11 mins      █████████████████████████   100.00 % 
+Visual Studio            26 hrs 17 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Cool Stream 35           28 hrs 12 mins      ████████████████████████░   96.62 % 
-Fragrant Field 4         55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-Cool Smoke 96            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Cool Stream 35           21 hrs 47 mins      █████████████████████░░░░   82.85 % 
+Fragrant Field 4         4 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+Cool Smoke 96            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 Operating System: 
-Windows                  29 hrs 11 mins      █████████████████████████   100.00 % 
+Windows                  26 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -87,7 +87,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/manuuio/manuuio/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2026 00:34:39 UTC
+ Last Updated on 20/08/2026 00:34:40 UTC
 <!--END_SECTION:waka-->
 
 
