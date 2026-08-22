@@ -2,11 +2,11 @@
 
 Started the tracking of my daily coding hours on the 8th August 2026.
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2024%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-174-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-177-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -47,21 +47,20 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       23 hrs 14 mins      ████████████████████░░░░░   80.13 % 
-Binary                   4 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-XAML                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-C++                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+C#                       23 hrs 4 mins       ████████████████████░░░░░   79.48 % 
+Binary                   4 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+XAML                     1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
 
 🔥 Editors: 
-Visual Studio            29 hrs              █████████████████████████   100.00 % 
+Visual Studio            29 hrs 1 min        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Cool Stream 35           19 hrs 54 mins      █████████████████░░░░░░░░   68.62 % 
-Fragrant Field 4         9 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   31.20 % 
-Cool Smoke 96            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Cool Stream 35           17 hrs 34 mins      ███████████████░░░░░░░░░░   60.53 % 
+Fragrant Field 4         11 hrs 27 mins      ██████████░░░░░░░░░░░░░░░   39.46 % 
+Billowing Fish 57        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  29 hrs              █████████████████████████   100.00 % 
+Windows                  29 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -87,7 +86,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/manuuio/manuuio/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2026 00:36:45 UTC
+ Last Updated on 22/08/2026 00:34:16 UTC
 <!--END_SECTION:waka-->
 
 
