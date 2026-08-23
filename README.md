@@ -6,7 +6,7 @@ Started the tracking of my daily coding hours on the 8th August 2026.
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-177-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -47,20 +47,20 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       23 hrs 4 mins       ████████████████████░░░░░   79.48 % 
-Binary                   4 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-XAML                     1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+C#                       15 hrs 27 mins      ███████████████████░░░░░░   77.40 % 
+Binary                   2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+XAML                     1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
 
 🔥 Editors: 
-Visual Studio            29 hrs 1 min        █████████████████████████   100.00 % 
+Visual Studio            19 hrs 58 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Cool Stream 35           17 hrs 34 mins      ███████████████░░░░░░░░░░   60.53 % 
-Fragrant Field 4         11 hrs 27 mins      ██████████░░░░░░░░░░░░░░░   39.46 % 
+Fragrant Field 4         11 hrs 27 mins      ██████████████░░░░░░░░░░░   57.36 % 
+Cool Stream 35           8 hrs 30 mins       ███████████░░░░░░░░░░░░░░   42.63 % 
 Billowing Fish 57        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  29 hrs 1 min        █████████████████████████   100.00 % 
+Windows                  19 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -86,7 +86,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/manuuio/manuuio/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2026 00:34:16 UTC
+ Last Updated on 23/08/2026 00:36:56 UTC
 <!--END_SECTION:waka-->
 
 
