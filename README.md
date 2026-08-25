@@ -6,7 +6,7 @@ Started the tracking of my daily coding hours on the 8th August 2026.
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -47,20 +47,19 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       8 hrs 49 mins       ███████████████████░░░░░░   76.47 % 
-XAML                     1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-Binary                   50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+C#                       8 hrs 48 mins       ███████████████████░░░░░░   76.83 % 
+XAML                     1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+Binary                   46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
 
 🔥 Editors: 
-Visual Studio            11 hrs 31 mins      █████████████████████████   100.00 % 
+Visual Studio            11 hrs 27 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Fragrant Field 4         11 hrs 27 mins      █████████████████████████   99.33 % 
-Cool Stream 35           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Fragrant Field 4         11 hrs 27 mins      █████████████████████████   99.98 % 
 Billowing Fish 57        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  11 hrs 31 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -86,7 +85,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/manuuio/manuuio/main/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2026 00:35:37 UTC
+ Last Updated on 25/08/2026 00:35:43 UTC
 <!--END_SECTION:waka-->
 
 
