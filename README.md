@@ -6,19 +6,19 @@ Started the tracking of my daily coding hours on the 8th August 2026.
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 20.0 kB Used in GitHub's Storage 
  > 
-> 🏆 155 Contributions in the Year 2026
+> 🏆 160 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 3 Public Repositories 
  > 
-> 🔑 23 Private Repositories 
+> 🔑 24 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -47,19 +47,21 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       7 hrs 54 mins       ███████████████████░░░░░░   75.16 % 
-XAML                     1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-Binary                   46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+C#                       2 hrs 41 mins       ████████████████████░░░░░   78.47 % 
+XAML                     34 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+Binary                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
 
 🔥 Editors: 
-Visual Studio            10 hrs 31 mins      █████████████████████████   100.00 % 
+Visual Studio            3 hrs 26 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Fragrant Field 4         10 hrs 31 mins      █████████████████████████   99.97 % 
-Billowing Fish 57        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Fragrant Field 4         2 hrs 24 mins       █████████████████░░░░░░░░   69.99 % 
+Red Home 54              57 mins             ███████░░░░░░░░░░░░░░░░░░   27.97 % 
+Weathered Credit 13      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Billowing Fish 57        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 Operating System: 
-Windows                  10 hrs 31 mins      █████████████████████████   100.00 % 
+Windows                  3 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -71,11 +73,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in C#** 
 
 ```text
-C#                       16 repos            █████████████████░░░░░░░░   69.57 % 
-HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+C#                       17 repos            ██████████████████░░░░░░░   70.83 % 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
 
 
@@ -85,7 +87,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/manuuio/manuuio/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 00:36:09 UTC
+ Last Updated on 27/08/2026 05:32:13 UTC
 <!--END_SECTION:waka-->
 
 
