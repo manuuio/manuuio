@@ -2,7 +2,7 @@
 
 Started the tracking of my daily coding hours on the 8th August 2026.
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2042%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20mins-blue?style=flat)
 
@@ -47,18 +47,18 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       1 hr 9 mins         ██████████████████████░░░   89.70 % 
-Binary                   7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+C#                       1 hr 25 mins        ██████████████████████░░░   87.86 % 
+Binary                   11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
 
 🔥 Editors: 
-Visual Studio            1 hr 17 mins        █████████████████████████   100.00 % 
+Visual Studio            1 hr 37 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Red Home 54              1 hr 13 mins        ████████████████████████░   94.79 % 
-Weathered Credit 13      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+Red Home 54              1 hr 33 mins        ████████████████████████░   95.86 % 
+Weathered Credit 13      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 
 💻 Operating System: 
-Windows                  1 hr 17 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 37 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -84,7 +84,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/manuuio/manuuio/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2026 07:27:57 UTC
+ Last Updated on 29/08/2026 04:38:01 UTC
 <!--END_SECTION:waka-->
 
 
