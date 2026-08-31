@@ -2,11 +2,11 @@
 
 Started the tracking of my daily coding hours on the 8th August 2026.
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2025%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -47,18 +47,18 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       1 hr 25 mins        ██████████████████████░░░   87.86 % 
-Binary                   11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+C#                       1 hr 49 mins        ███████████████████████░░   90.19 % 
+Binary                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
 
 🔥 Editors: 
-Visual Studio            1 hr 37 mins        █████████████████████████   100.00 % 
+Visual Studio            2 hrs               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Red Home 54              1 hr 33 mins        ████████████████████████░   95.86 % 
-Weathered Credit 13      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+Red Home 54              1 hr 56 mins        ████████████████████████░   96.65 % 
+Weathered Credit 13      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 
 💻 Operating System: 
-Windows                  1 hr 37 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -84,7 +84,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/manuuio/manuuio/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2026 02:10:06 UTC
+ Last Updated on 31/08/2026 02:05:57 UTC
 <!--END_SECTION:waka-->
 
 
