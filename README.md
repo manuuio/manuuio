@@ -2,11 +2,11 @@
 
 Started the tracking of my daily coding hours on the 8th August 2026.
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%205%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -47,18 +47,20 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       1 hr 49 mins        ███████████████████████░░   90.19 % 
-Binary                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+C#                       2 hrs 9 mins        ████████████████████░░░░░   80.83 % 
+Binary                   28 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+XAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 🔥 Editors: 
-Visual Studio            2 hrs               █████████████████████████   100.00 % 
+Visual Studio            2 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Red Home 54              1 hr 56 mins        ████████████████████████░   96.65 % 
-Weathered Credit 13      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Red Home 54              1 hr 56 mins        ██████████████████░░░░░░░   72.73 % 
+Fragrant Field 4         39 mins             ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
+Weathered Credit 13      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 
 💻 Operating System: 
-Windows                  2 hrs               █████████████████████████   100.00 % 
+Windows                  2 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -84,7 +86,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/manuuio/manuuio/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2026 02:26:15 UTC
+ Last Updated on 02/09/2026 01:47:35 UTC
 <!--END_SECTION:waka-->
 
 
