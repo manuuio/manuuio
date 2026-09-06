@@ -12,7 +12,7 @@ Started the tracking of my daily coding hours on the 8th August 2026.
 
 > 📦 20.0 kB Used in GitHub's Storage 
  > 
-> 🏆 161 Contributions in the Year 2026
+> 🏆 163 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -47,19 +47,19 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       1 hr 2 mins         ██████████████████░░░░░░░   73.16 % 
-Binary                   20 mins             ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
-XAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+C#                       44 mins             █████████████████░░░░░░░░   69.92 % 
+Binary                   16 mins             ███████░░░░░░░░░░░░░░░░░░   26.58 % 
+XAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
 
 🔥 Editors: 
-Visual Studio            1 hr 25 mins        █████████████████████████   100.00 % 
+Visual Studio            1 hr 3 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Red Home 54              45 mins             █████████████░░░░░░░░░░░░   53.20 % 
-Fragrant Field 4         39 mins             ████████████░░░░░░░░░░░░░   46.80 % 
+Fragrant Field 4         39 mins             ████████████████░░░░░░░░░   63.16 % 
+Red Home 54              23 mins             █████████░░░░░░░░░░░░░░░░   36.84 % 
 
 💻 Operating System: 
-Windows                  1 hr 25 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 3 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -85,7 +85,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/manuuio/manuuio/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2026 01:48:43 UTC
+ Last Updated on 06/09/2026 01:42:58 UTC
 <!--END_SECTION:waka-->
 
 
