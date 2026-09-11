@@ -6,7 +6,7 @@ Started the tracking of my daily coding hours on the 8th August 2026.
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -83,7 +83,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/manuuio/manuuio/main/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2026 01:53:49 UTC
+ Last Updated on 11/09/2026 01:52:27 UTC
 <!--END_SECTION:waka-->
 
 
