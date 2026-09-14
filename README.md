@@ -6,7 +6,7 @@ Started the tracking of my daily coding hours on the 8th August 2026.
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -47,17 +47,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       1 hr 48 mins        ███████████████████████░░   90.72 % 
-Binary                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            1 hr 59 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Red Home 54              1 hr 59 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 59 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -83,7 +82,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/manuuio/manuuio/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2026 01:51:05 UTC
+ Last Updated on 14/09/2026 02:08:22 UTC
 <!--END_SECTION:waka-->
 
 
