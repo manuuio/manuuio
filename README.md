@@ -2,7 +2,7 @@
 
 Started the tracking of my coding hours on the 8th August 2026.
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%2013%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20mins-blue?style=flat)
 
@@ -12,13 +12,13 @@ Started the tracking of my coding hours on the 8th August 2026.
 
 > 📦 20.4 kB Used in GitHub's Storage 
  > 
-> 🏆 166 Contributions in the Year 2026
+> 🏆 170 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 3 Public Repositories 
  > 
-> 🔑 25 Private Repositories 
+> 🔑 26 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -47,24 +47,24 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       54 mins             ██████████████░░░░░░░░░░░   57.13 % 
-Markdown                 28 mins             ███████░░░░░░░░░░░░░░░░░░   29.65 % 
-Binary                   10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+C#                       1 hr 57 mins        ████████████████░░░░░░░░░   62.26 % 
+Markdown                 33 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+XML                      26 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+Binary                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-Visual Studio            1 hr 34 mins        █████████████████████████   100.00 % 
+Visual Studio            3 hrs 8 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Ambitious Boat 85        56 mins             ███████████████░░░░░░░░░░   59.63 % 
-Ancient Town 29          31 mins             ████████░░░░░░░░░░░░░░░░░   33.82 % 
-Sweet Glade 15           3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-Icy Poetry 11            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Patient Society 8        1 hr 27 mins        ████████████░░░░░░░░░░░░░   46.59 % 
+Ambitious Boat 85        56 mins             ████████░░░░░░░░░░░░░░░░░   30.16 % 
+Ancient Town 29          36 mins             █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+Sweet Glade 15           3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Icy Poetry 11            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 
 💻 Operating System: 
-Windows                  1 hr 34 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -90,7 +90,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/manuuio/manuuio/main/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2026 02:14:04 UTC
+ Last Updated on 23/09/2026 02:14:09 UTC
 <!--END_SECTION:waka-->
 
 
