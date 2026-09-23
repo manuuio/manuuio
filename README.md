@@ -4,8 +4,6 @@ Started the tracking of my coding hours on the 8th August 2026.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%2013%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue?style=flat)
 
 **🐱 My GitHub Data** 
