@@ -81,13 +81,6 @@ TypeScript               1 repo              █░░░░░░░░░░�
 Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/manuuio/manuuio/main/assets/bar_graph.png)
-
-
  Last Updated on 23/09/2026 02:14:09 UTC
 <!--END_SECTION:waka-->
 
