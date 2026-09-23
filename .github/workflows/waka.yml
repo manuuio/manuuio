@@ -19,3 +19,4 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_AI_CODE_TIME: "False"
           SHOW_AI_CODING: "False"
+          SHOW_LOC_CHART: "False"
