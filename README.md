@@ -2,38 +2,38 @@
 
 Started the tracking of my coding hours on the 8th August 2026.
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-67%20hrs%2031%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 20.4 kB Used in GitHub's Storage 
+> 📦 189.5 kB Used in GitHub's Storage 
  > 
-> 🏆 170 Contributions in the Year 2026
+> 🏆 187 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 3 Public Repositories 
  > 
-> 🔑 26 Private Repositories 
+> 🔑 27 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                12 commits          ██████████████░░░░░░░░░░░   54.55 % 
-🌃 Evening                10 commits          ███████████░░░░░░░░░░░░░░   45.45 % 
+🌆 Daytime                17 commits          ████████████████░░░░░░░░░   62.96 % 
+🌃 Evening                10 commits          █████████░░░░░░░░░░░░░░░░   37.04 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Tuesday                  4 commits           █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Wednesday                3 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Thursday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Friday                   13 commits          ███████████████░░░░░░░░░░   59.09 % 
+Monday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Tuesday                  4 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Wednesday                8 commits           ███████░░░░░░░░░░░░░░░░░░   29.63 % 
+Thursday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Friday                   13 commits          ████████████░░░░░░░░░░░░░   48.15 % 
 Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
@@ -45,43 +45,42 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       1 hr 57 mins        ████████████████░░░░░░░░░   62.26 % 
-Markdown                 33 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-XML                      26 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-Binary                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+C#                       2 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   41.64 % 
+JavaScript               1 hr 29 mins        ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
+TypeScript               40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+Markdown                 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+XML                      26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
 
 🔥 Editors: 
-Visual Studio            3 hrs 8 mins        █████████████████████████   100.00 % 
+Visual Studio            4 hrs               ███████████████░░░░░░░░░░   60.14 % 
+Claude Code              1 hr 53 mins        ███████░░░░░░░░░░░░░░░░░░   28.48 % 
+Codex Vscode             45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
 
 🐱‍💻 Projects: 
-Patient Society 8        1 hr 27 mins        ████████████░░░░░░░░░░░░░   46.59 % 
-Ambitious Boat 85        56 mins             ████████░░░░░░░░░░░░░░░░░   30.16 % 
-Ancient Town 29          36 mins             █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
-Sweet Glade 15           3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-Icy Poetry 11            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Patient Society 8        1 hr 40 mins        ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
+Friendly Field 80        1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
+Ambitious Boat 85        59 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Sparkling Table 37       45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Shy Strategy 84          36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
 
 💻 Operating System: 
-Windows                  3 hrs 8 mins        █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
+Windows                  6 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
 
 ```text
-C#                       17 repos            █████████████████░░░░░░░░   68.00 % 
-HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+C#                       18 repos            █████████████████░░░░░░░░   66.67 % 
+HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
- Last Updated on 23/09/2026 02:14:09 UTC
+
+
+
+ Last Updated on 24/09/2026 02:00:32 UTC
 <!--END_SECTION:waka-->
 
 
