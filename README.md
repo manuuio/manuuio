@@ -2,21 +2,21 @@
 
 Started the tracking of my coding hours on the 8th August 2026.
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-67%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-71%20hrs%2055%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-56-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 189.5 kB Used in GitHub's Storage 
  > 
-> 🏆 187 Contributions in the Year 2026
+> 🏆 192 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 3 Public Repositories 
  > 
-> 🔑 27 Private Repositories 
+> 🔑 28 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -45,26 +45,25 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       2 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   41.64 % 
-JavaScript               1 hr 29 mins        ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
-TypeScript               40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-Markdown                 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-XML                      26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+C#                       3 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   35.38 % 
+JavaScript               2 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
+Markdown                 1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+Python                   1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+XML                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
 
 🔥 Editors: 
-Visual Studio            4 hrs               ███████████████░░░░░░░░░░   60.14 % 
-Claude Code              1 hr 53 mins        ███████░░░░░░░░░░░░░░░░░░   28.48 % 
-Codex Vscode             45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Claude Code              5 hrs 10 mins       █████████████░░░░░░░░░░░░   52.50 % 
+Visual Studio            4 hrs 40 mins       ████████████░░░░░░░░░░░░░   47.50 % 
 
 🐱‍💻 Projects: 
-Patient Society 8        1 hr 40 mins        ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
-Friendly Field 80        1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
-Ambitious Boat 85        59 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Sparkling Table 37       45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-Shy Strategy 84          36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+Soft Bath 16             2 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   26.29 % 
+Patient Society 8        1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Friendly Field 80        1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Ambitious Boat 85        56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Jolly Customer 77        50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
 
 💻 Operating System: 
-Windows                  6 hrs 39 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -80,7 +79,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/09/2026 02:00:32 UTC
+ Last Updated on 25/09/2026 02:17:14 UTC
 <!--END_SECTION:waka-->
 
 
