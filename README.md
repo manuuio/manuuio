@@ -2,7 +2,7 @@
 
 Started the tracking of my coding hours on the 8th August 2026.
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-78%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-79%20hrs%2031%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-56-blue?style=flat)
 
@@ -45,25 +45,25 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       9 hrs 6 mins        ███████████████░░░░░░░░░░   58.99 % 
-JavaScript               2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Markdown                 1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
-Python                   1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-XML                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+C#                       9 hrs 55 mins       ███████████████░░░░░░░░░░   60.27 % 
+JavaScript               2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+Markdown                 1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+Python                   1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+XML                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 
 🔥 Editors: 
-Visual Studio            10 hrs 16 mins      █████████████████░░░░░░░░   66.49 % 
-Claude Code              5 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   33.51 % 
+Visual Studio            11 hrs 16 mins      █████████████████░░░░░░░░   68.56 % 
+Claude Code              5 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   31.44 % 
 
 🐱‍💻 Projects: 
-Soft Bath 16             8 hrs 56 mins       ██████████████░░░░░░░░░░░   57.89 % 
-Patient Society 8        1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-Friendly Field 80        1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-Jolly Customer 77        50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
-Small Bonus 14           48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+Soft Bath 16             10 hrs 10 mins      ███████████████░░░░░░░░░░   61.85 % 
+Patient Society 8        1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+Friendly Field 80        1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+Jolly Customer 77        50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Small Bonus 14           48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 
 💻 Operating System: 
-Windows                  15 hrs 26 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -79,7 +79,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2026 02:22:33 UTC
+ Last Updated on 27/09/2026 02:18:22 UTC
 <!--END_SECTION:waka-->
 
 
