@@ -2,9 +2,9 @@
 
 Started the tracking of my coding hours on the 8th August 2026.
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%2018%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-56-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-42-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -45,25 +45,20 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       11 hrs 39 mins      █████████████████░░░░░░░░   67.16 % 
-JavaScript               2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-Markdown                 1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-Python                   1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-HLSL                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+C#                       15 hrs 53 mins      ███████████████████████░░   91.88 % 
+Markdown                 1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+HTML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Binary                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Image (png)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Visual Studio            12 hrs 11 mins      ██████████████████░░░░░░░   70.20 % 
-Claude Code              5 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   29.80 % 
+Visual Studio            17 hrs 17 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Soft Bath 16             13 hrs 14 mins      ███████████████████░░░░░░   76.25 % 
-Friendly Field 80        1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-Jolly Customer 77        50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-Small Bonus 14           48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-Shy Strategy 84          47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+Soft Bath 16             17 hrs 17 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  17 hrs 21 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -79,7 +74,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2026 02:48:07 UTC
+ Last Updated on 01/10/2026 02:54:13 UTC
 <!--END_SECTION:waka-->
 
 
