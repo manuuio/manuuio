@@ -2,15 +2,15 @@
 
 Started the tracking of my coding hours on the 8th August 2026.
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-89%20hrs%2013%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-42-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-41-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 191.3 kB Used in GitHub's Storage 
+> 📦 191.4 kB Used in GitHub's Storage 
  > 
-> 🏆 201 Contributions in the Year 2026
+> 🏆 203 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,20 +45,20 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       15 hrs 53 mins      ███████████████████████░░   91.88 % 
-Markdown                 1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-HTML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-Binary                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-Image (png)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+C#                       13 hrs 43 mins      ██████████████████████░░░   86.63 % 
+Markdown                 1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+Binary                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+HTML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Image (png)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Visual Studio            17 hrs 17 mins      █████████████████████████   100.00 % 
+Visual Studio            15 hrs 50 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Soft Bath 16             17 hrs 17 mins      █████████████████████████   100.00 % 
+Soft Bath 16             15 hrs 50 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  17 hrs 17 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -74,7 +74,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2026 02:54:13 UTC
+ Last Updated on 02/10/2026 02:56:44 UTC
 <!--END_SECTION:waka-->
 
 
