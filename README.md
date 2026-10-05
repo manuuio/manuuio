@@ -2,21 +2,21 @@
 
 Started the tracking of my coding hours on the 8th August 2026.
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2016%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 193.6 kB Used in GitHub's Storage 
+> 📦 223.5 kB Used in GitHub's Storage 
  > 
-> 🏆 213 Contributions in the Year 2026
+> 🏆 219 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 3 Public Repositories 
  > 
-> 🔑 29 Private Repositories 
+> 🔑 30 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -45,36 +45,36 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       14 hrs              ██████████████████████░░░   88.58 % 
-Markdown                 1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-Binary                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+C#                       11 hrs 27 mins      ██████████████████████░░░   86.38 % 
+Markdown                 1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+Binary                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Visual Studio            15 hrs 48 mins      █████████████████████████   100.00 % 
+Visual Studio            13 hrs 15 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Soft Bath 16             15 hrs 48 mins      █████████████████████████   100.00 % 
+Soft Bath 16             13 hrs 15 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  15 hrs 48 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
 
 ```text
-C#                       18 repos            ████████████████░░░░░░░░░   64.29 % 
-HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+C#                       19 repos            ████████████████░░░░░░░░░   65.52 % 
+HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
 
 
- Last Updated on 04/10/2026 03:14:27 UTC
+ Last Updated on 05/10/2026 02:49:23 UTC
 <!--END_SECTION:waka-->
 
 
