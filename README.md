@@ -8,9 +8,9 @@ Started the tracking of my coding hours on the 8th August 2026.
 
 **🐱 My GitHub Data** 
 
-> 📦 223.5 kB Used in GitHub's Storage 
+> 📦 223.6 kB Used in GitHub's Storage 
  > 
-> 🏆 219 Contributions in the Year 2026
+> 🏆 222 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,20 +45,22 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       11 hrs 27 mins      ██████████████████████░░░   86.38 % 
-Markdown                 1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-Binary                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+C#                       11 hrs 38 mins      ███████████████████░░░░░░   77.24 % 
+Markdown                 1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Text                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+Binary                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 
 🔥 Editors: 
-Visual Studio            13 hrs 15 mins      █████████████████████████   100.00 % 
+Visual Studio            13 hrs 14 mins      ██████████████████████░░░   87.85 % 
+Claude Code              1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
 
 🐱‍💻 Projects: 
-Soft Bath 16             13 hrs 15 mins      █████████████████████████   100.00 % 
+Soft Bath 16             13 hrs 34 mins      ██████████████████████░░░   89.99 % 
+Joyful Theory 42         1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
 
 💻 Operating System: 
-Windows                  13 hrs 15 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -74,7 +76,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/10/2026 02:49:23 UTC
+ Last Updated on 06/10/2026 03:40:05 UTC
 <!--END_SECTION:waka-->
 
 
