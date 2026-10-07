@@ -2,21 +2,21 @@
 
 Started the tracking of my coding hours on the 8th August 2026.
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 223.6 kB Used in GitHub's Storage 
+> 📦 255.5 kB Used in GitHub's Storage 
  > 
-> 🏆 222 Contributions in the Year 2026
+> 🏆 224 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 3 Public Repositories 
  > 
-> 🔑 30 Private Repositories 
+> 🔑 31 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -45,38 +45,39 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       11 hrs 38 mins      ███████████████████░░░░░░   77.24 % 
-Markdown                 1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Text                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-Binary                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+C#                       9 hrs 19 mins       █████████████████░░░░░░░░   67.49 % 
+Markdown                 2 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
+Text                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Binary                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+C++                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 
 🔥 Editors: 
-Visual Studio            13 hrs 14 mins      ██████████████████████░░░   87.85 % 
-Claude Code              1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Visual Studio            10 hrs 19 mins      ███████████████████░░░░░░   74.79 % 
+Claude Code              3 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   25.21 % 
 
 🐱‍💻 Projects: 
-Soft Bath 16             13 hrs 34 mins      ██████████████████████░░░   89.99 % 
-Joyful Theory 42         1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+Soft Bath 16             10 hrs 39 mins      ███████████████████░░░░░░   77.19 % 
+Little Arm 70            1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Joyful Theory 42         1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
 
 💻 Operating System: 
-Windows                  15 hrs 4 mins       █████████████████████████   100.00 % 
+Windows                  13 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
 
 ```text
-C#                       19 repos            ████████████████░░░░░░░░░   65.52 % 
-HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+C#                       19 repos            ████████████████░░░░░░░░░   63.33 % 
+HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+C++                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
 
 
 
 
- Last Updated on 06/10/2026 03:40:05 UTC
+ Last Updated on 07/10/2026 03:06:52 UTC
 <!--END_SECTION:waka-->
 
 
