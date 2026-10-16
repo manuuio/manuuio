@@ -2,7 +2,7 @@
 
 Started the tracking of my coding hours on the 8th August 2026.
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-122%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-129%20hrs%203%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -45,22 +45,22 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       15 hrs 39 mins      █████████████████░░░░░░░░   68.76 % 
-XAML                     3 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-Binary                   1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-Python                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-Markdown                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+C#                       16 hrs 24 mins      ████████████████░░░░░░░░░   63.84 % 
+XAML                     5 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
+Binary                   1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+Python                   55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Markdown                 45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 
 🔥 Editors: 
-Visual Studio            22 hrs 8 mins       ████████████████████████░   97.21 % 
-Claude Code              38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+Visual Studio            24 hrs 23 mins      ████████████████████████░   94.96 % 
+Claude Code              1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
 
 🐱‍💻 Projects: 
-Soft Bath 16             16 hrs 28 mins      ██████████████████░░░░░░░   72.33 % 
-Plain Glitter 80         6 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   27.67 % 
+Soft Bath 16             19 hrs 9 mins       ███████████████████░░░░░░   74.56 % 
+Plain Glitter 80         6 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
 
 💻 Operating System: 
-Windows                  22 hrs 47 mins      █████████████████████████   100.00 % 
+Windows                  25 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -76,7 +76,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2026 02:11:54 UTC
+ Last Updated on 16/10/2026 02:02:18 UTC
 <!--END_SECTION:waka-->
 
 
