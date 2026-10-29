@@ -45,24 +45,23 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       9 hrs 46 mins       ████████████████░░░░░░░░░   65.27 % 
-Markdown                 2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-XAML                     1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Binary                   1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+C#                       7 hrs 17 mins       ████████████████░░░░░░░░░   62.16 % 
+Markdown                 1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+XAML                     1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+Binary                   1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Visual Studio            14 hrs 58 mins      █████████████████████████   100.00 % 
+Visual Studio            11 hrs 44 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Soft Bath 16             10 hrs 54 mins      ██████████████████░░░░░░░   72.83 % 
-Bright Cherry 2          2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Delicate Shower 25       1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-Delicate Lake 52         48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-Plain Glitter 80         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Soft Bath 16             9 hrs 42 mins       █████████████████████░░░░   82.68 % 
+Delicate Shower 25       1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+Delicate Lake 52         48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Plain Glitter 80         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  14 hrs 58 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -78,7 +77,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2026 02:53:27 UTC
+ Last Updated on 29/10/2026 03:17:36 UTC
 <!--END_SECTION:waka-->
 
 
