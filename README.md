@@ -45,23 +45,23 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       7 hrs 17 mins       ████████████████░░░░░░░░░   62.16 % 
-Markdown                 1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-XAML                     1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-Binary                   1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+C#                       6 hrs 13 mins       ██████████████████░░░░░░░   73.40 % 
+Markdown                 1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+Binary                   38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+XAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-Visual Studio            11 hrs 44 mins      █████████████████████████   100.00 % 
+Visual Studio            8 hrs 28 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Soft Bath 16             9 hrs 42 mins       █████████████████████░░░░   82.68 % 
-Delicate Shower 25       1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-Delicate Lake 52         48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Soft Bath 16             6 hrs 26 mins       ███████████████████░░░░░░   76.01 % 
+Delicate Shower 25       1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Delicate Lake 52         48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
 Plain Glitter 80         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  11 hrs 44 mins      █████████████████████████   100.00 % 
+Windows                  8 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -77,7 +77,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/10/2026 03:17:36 UTC
+ Last Updated on 30/10/2026 03:19:40 UTC
 <!--END_SECTION:waka-->
 
 
